@@ -8,7 +8,7 @@ I don't just deploy models.
 
 I build AI systems that **detect drift, heal themselves, scale automatically, and survive production.**
 
-[LinkedIn](https://www.linkedin.com/in/chtagore/) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/chtagore/) • [Email](mailto:ch.rangatagore@gmail.com)
 
 </div>
 
@@ -17,8 +17,7 @@ I build AI systems that **detect drift, heal themselves, scale automatically, an
 ## Impact At A Glance
 
 ```yaml
-🏦 Enterprise Banking AI:
-   Standard Chartered Bank
+🏦 Enterprise Systems AI
 
 ⚡ Deployment Velocity:
    Reduced model release cycle to 2 hours
@@ -49,15 +48,11 @@ I focus on everything that happens **after deployment.**
 
 In production, models fail silently.
 
-Data drifts.
-
-Features change.
-
-Business rules evolve.
-
-Costs explode.
-
-Pipelines break.
+> Data drifts.
+> Features change.
+> Business rules evolve.
+> Costs explode.
+> Pipelines break.
 
 My work sits at the intersection of:
 
@@ -71,23 +66,17 @@ My work sits at the intersection of:
 I build platforms that can:
 
 ✅ Detect degradation
-
 ✅ Trigger retraining
-
 ✅ Scale automatically
-
 ✅ Maintain governance
-
 ✅ Recover from failures
-
 ✅ Deliver reliable AI in production
 
 ---
 
-## Engineering Philosophy
+## Engineering Understanding
 
 > Training a model is easy.
->
 > Keeping it useful in production is the real challenge.
 
 I believe modern AI systems should behave like living systems:
@@ -113,15 +102,10 @@ But:
 
 ```text
 What happens when data changes?
-
 What happens when customers behave differently?
-
 What happens when accuracy drops?
-
 What happens when APIs fail?
-
 What happens when cloud costs triple?
-
 What happens when nobody notices?
 ```
 
