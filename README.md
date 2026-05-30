@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### AI Infrastructure Engineer • MLOps • LLMOps • Azure Cloud
+### AI/ML Engineer • Agentic AI • Gen AI • MLOps • LLMOps • Azure Cloud • Python • SQL
 
 I don't just deploy models.
 
